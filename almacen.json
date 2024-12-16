@@ -1,0 +1,41 @@
+{
+    "usuarios": [
+      {
+        "id": "1asd",
+        "username": "Benjamin",
+        "email": "benjaacevedoleon@gmail.com",
+        "password": "Benja7u7",
+        "isactive": true
+      },
+      {
+        "id": "8768",
+        "username": "Leonel",
+        "email": "benjaacevedoleon@gmail.com",
+        "password": "Benja7u7",
+        "isactive": true
+      },
+      {
+        "id": "b5ec",
+        "username": "Alexis",
+        "email": "benjaacevedoleon@gmail.com",
+        "password": "Benja7u7",
+        "isactive": true
+      }
+    ],
+    "eventos": [
+      {
+        "id": "1",
+        "nombre": "Concierto",
+        "fecha": "2024-12-10",
+        "ubicacion": "Auditorio Municipal",
+        "descripcion": "Concierto de música clásica"
+      },
+      {
+        "id": "2",
+        "nombre": "Feria de Tecnología",
+        "fecha": "2024-12-12",
+        "ubicacion": "Centro de Convenciones",
+        "descripcion": "Exposición de productos tecnológicos"
+      }
+    ]
+  }
